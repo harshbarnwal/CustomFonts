@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Fonts</string>
+    <string name="string_text1">This is custom font 1</string>
+    <string name="string_text2">This is custom font 2</string>
+    <string name="string_text3">This is custom font 3</string>
+    <string name="string_text4">This is custom font 4</string>
+    <string name="string_text5">This is custom font 5</string>
+    <string name="string_text6">This is custom font 6</string>
+</resources>
